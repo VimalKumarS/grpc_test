@@ -1,0 +1,1 @@
+protoc .\pb\messages.proto --go_out=plugins=grpc:.
